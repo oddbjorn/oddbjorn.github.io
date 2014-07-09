@@ -1,9 +1,9 @@
 # Site settings
 title: Security Rebooted
 email: oddbjorn@tricknology.org
-description: "Random ruminations on all things information security related. Or not."
+description: "Random ruminations on all things information security."
 baseurl: ""
-url: "http://oddbjorn.github.io"
+url: "http://oddbjorn.steffensen.net"
 
 # Build settings
 markdown: kramdown
