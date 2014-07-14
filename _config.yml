@@ -1,10 +1,13 @@
-# Site settings
-title: Security Rebooted
-email: oddbjorn@tricknology.org
-description: "Random ruminations on all things information security."
-baseurl: ""
-url: "http://oddbjorn.steffensen.net"
+markdown: redcarpet
+highlighter: null
+permalink: /:title
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+url:
+baseurl:
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed

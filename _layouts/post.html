@@ -1,17 +1,10 @@
 ---
 layout: default
 ---
-<div class="container">
-  {% include nextprev.html %}
-  <header>
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
 
-  <article>
-    {{ content }}
-  </article>
-</div>
-  {% include nextprev.html %}
+<article class="single row gutters">
+  <time class="published" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_long_string }}</time>
+  <h2>{{ page.title }}</h2>
 
-<!-- {% include comment.html %} -->
+  {{ content }}
+</article>

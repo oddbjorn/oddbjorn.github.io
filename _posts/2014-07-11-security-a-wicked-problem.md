@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Security - A Wicked Problem?"
+title:  "#02: Security - A Wicked Problem?"
 categories: security
 ---
 
@@ -9,11 +9,11 @@ Information security is too often treated as a binary problem; we're either <em>
 The term was first used by Horst Rittel and Melvin Webber of University of California at Berkeley in 
 [Dilemmas in a General Theory of Planning][rittel] (1973). Their context was the challenges of social policies in the late 1960s and early 1970s, and they concluded with the following:
 
-> The search for scientific bases for confronting problems of social policy is bound to fail, because of the nature of these problems. They are &#8220;wicked&#8221; problems, whereas science has developed to deal with &ldquo;tame&rdquo; problems. Policy problems cannot be definitively described.
+> The search for scientific bases for confronting problems of social policy is bound to fail, because of the nature of these problems. They are "wicked" problems, whereas science has developed to deal with 'tame' problems. Policy problems cannot be definitively described.
 
 > Moreover, in a pluralistic society there is nothing like the undisputable public good; there is no objective definition of equity; policies that respond to social problems cannot be meaningfully correct or false; and it makes no sense to talk about &#8216;optimal solutions&#8217; to social problems unless severe qualifications are imposed first. Even worse, there are no &#8220;solutions&#8221; in the sense of definitive and objective answers.
 
-They defined the following characteristics of a &#8216;wicked problem&#8217;, and I&#8217;ve tried to map each of them against the field of information security below:
+They defined the following characteristics of a "wicked problem", and I've tried to map each of them against the field of information security below:
 
 <table>
 	<tr>
