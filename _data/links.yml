@@ -1,8 +1,11 @@
 - url: /
   title: Home
 
-- url: /about
+- url: /about.html
   title: About
+
+- url: /resources.html
+  title: Resources
 
 - url: http://www.oddbjorn.net/
   title: Photos

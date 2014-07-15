@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "#00: Writing to Learn"
-categories: meta
+layout: page
+title: About
 ---
 
+### Motivation
 Around fifteen years ago, my primary attention shifted from Unix and system management to working exclusively within the field of information security. While it is hard to claim that the overall security standing haven't improved in the past decade, it is fair to say that we still have a long way to go in this area.
 
 I believe that the field of security can benefit from looking at recent developments in surrounding areas, for example:
