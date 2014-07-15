@@ -9,7 +9,7 @@ the [waterfall model][waterfall], pictured to the right. He states the he believ
 'the implementation described [..] is risky and invites failure'; due to the testing occurring very late in the lifecycle, and the long way from initial requirements to operation.
 
 <div style="float:right;margin:0 10px 10px 0" markdown="1">
-  ![Waterfall](/images/waterfall.png "The classic waterfall model from Managing the Development of Large Software Systems by Winston W. Royce (1970)")
+![Waterfall](/public/images/waterfall.png "The classic waterfall model from Managing the Development of Large Software Systems by Winston W. Royce (1970)")
 </div>
 
 Twenty years ago, when I was studying software engineering, the waterfall philosophy was still the foundation for how large-scale systems were developed. The results were predictable &mdash; a string of failures in development of large-scale software systems in the late eighties and throughout the nineties.
